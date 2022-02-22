@@ -8,10 +8,8 @@ class Programmer
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/guilherme-dev-backend/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
-    <a href="https://desenvolvendo.me" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/chrome.png?raw=true" alt="desenvolvendome" height="30" width="40" target="_blank"/></a>
-    <a href="https://www.youtube.com/c/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/youtube-v2.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>
-    <a href="https://t.me/GuiMarcelino91" target="_blank"><img align="center" src="https://github.com/GuiMarcelino/GuiMarcelino/blob/master/telegram.png?raw=true" alt="GuiMarcelino" height="30" width="40"/></a>
+    <a href="https://www.linkedin.com/in/guilherme-dev-backend/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true"  width="40" target="_blank"/></a>
+    <a href="https://t.me/GuiMarcelino91" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/telegram.png?raw=true" alt="marcodotcastro" height="30" width="40"/></a>
     
 </p>
 
