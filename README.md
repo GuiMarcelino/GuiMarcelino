@@ -1,4 +1,4 @@
-# Olá, eu sou Guilherme marcelino
+# Olá, eu sou Guilherme Marcelino
 
 ```ruby 
 class Programmer
