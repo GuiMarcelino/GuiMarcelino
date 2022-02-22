@@ -35,7 +35,7 @@ class Programmer
 	<tr>
 		<td>1</td>
             	<td><a href="https://github.com/GuiMarcelino/StockControlSystem.git"><b>StockControlSystem</b></a></td>
-		<td>Business / Developer</td>
+		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/StockControlSystem?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/StockControlSystem?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/StockControlSystem?style=flat-square&labelColor=343b41" /></td>
@@ -44,7 +44,7 @@ class Programmer
         <tr>
 		<td>2</td>
 		<td><a href=https://github.com/GuiMarcelino/ActiveRecordCurso.git"><b>ActiveRecordCurso</b></a></td>
-	 	<td>Business / Developer</td>
+	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
@@ -53,7 +53,7 @@ class Programmer
         <tr>
 		<td>3</td>
             	<td><a href="https://github.com/GuiMarcelino/ecommerce_api.git"><b>ecommerce_api</b></a></td>
-		<td>DevOps</td>
+		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/ecommerce_api?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/ecommerce_api?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/ecommerce_api?style=flat-square&labelColor=343b41" /></td>
