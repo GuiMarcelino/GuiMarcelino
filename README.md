@@ -43,7 +43,7 @@ class Programmer
         </tr>
         <tr>
 		<td>2</td>
-		<td><a href=https://github.com/GuiMarcelino/ActiveRecordCurso.git"><b>Portal Agro</b></a></td>
+		<td><a href=https://github.com/GuiMarcelino/ActiveRecordCurso.git"><b>ActiveRecordCurso</b></a></td>
 	 	<td>Business / Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
@@ -52,7 +52,7 @@ class Programmer
         </tr>
         <tr>
 		<td>3</td>
-            	<td><a href="https://github.com/GuiMarcelino/ecommerce_api.git"><b>ALM / CI</b></a></td>
+            	<td><a href="https://github.com/GuiMarcelino/ecommerce_api.git"><b>ecommerce_api</b></a></td>
 		<td>DevOps</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/ecommerce_api?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/ecommerce_api?style=flat-square&labelColor=343b41" /></td>
@@ -61,7 +61,7 @@ class Programmer
         </tr>
 	 <tr>
 		<td>4</td>
-            	<td><a href="https://github.com/GuiMarcelino/onebitcode.git"><b>Rails vs Phoenix vs Laravel</b></a></td>
+            	<td><a href="https://github.com/GuiMarcelino/onebitcode.git"><b>onebitcode</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
