@@ -43,30 +43,30 @@ class Programmer
         </tr>
         <tr>
 		<td>2</td>
-		<td><a href="https://github.com/marcodotcastro/portal-agro"><b>Portal Agro</b></a></td>
+		<td><a href=https://github.com/GuiMarcelino/ActiveRecordCurso.git"><b>Portal Agro</b></a></td>
 	 	<td>Business / Developer</td>
-	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
 		<td>3</td>
-            	<td><a href="https://github.com/marcodotcastro/application-lifecycle-management"><b>ALM / CI</b></a></td>
+            	<td><a href="https://github.com/GuiMarcelino/ecommerce_api.git"><b>ALM / CI</b></a></td>
 		<td>DevOps</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/ecommerce_api?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/ecommerce_api?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/ecommerce_api?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GuiMarcelino/ecommerce_api?style=flat-square&labelColor=343b41" /></td>
         </tr>
 	 <tr>
 		<td>4</td>
-            	<td><a href="https://github.com/marcodotcastro/study-rails-vs-phoenix-vs-laravel"><b>Rails vs Phoenix vs Laravel</b></a></td>
+            	<td><a href="https://github.com/GuiMarcelino/onebitcode.git"><b>Rails vs Phoenix vs Laravel</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
         </tr>
     </tbody>
 </table>
