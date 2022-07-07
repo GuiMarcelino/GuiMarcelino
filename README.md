@@ -3,7 +3,7 @@
 ```ruby 
 class Programmer
 
-	def initialize() 
+	def initialize(Júnior) 
 ```
 
 <p align="left">
