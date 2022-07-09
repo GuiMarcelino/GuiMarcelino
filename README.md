@@ -71,7 +71,7 @@ class Programmer
     </tbody>
 </table>
 
- <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/0e/0a/54/0e0a54a90658ba6995488a35585642ee.gif" width="70%" height="400px" />
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
