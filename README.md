@@ -88,7 +88,8 @@ class Programmer
         <a href="https://html5.org/](https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
 	<a href="https://html5.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
         <a href="https://www.javascript.com/" target="_blank"><img src="https://portalwebdesigner.com/wp-content/uploads/2016/05/Simbolo-Linguagem-JavaScript.png" alt="Javascript" width="40" height="40" /></a>
-	<a href="https://graphql.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40" /></a>
+	
+			<a href="https://graphql.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40" /></a>
     </p>
 
 ```ruby 
