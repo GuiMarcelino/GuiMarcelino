@@ -57,7 +57,7 @@ class Programmer
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GuiMarcelino/TDD_Ruby_on_Rails_Rspec?style=flat-square&labelColor=343b41" /></td>
         </tr>
     </tbody>
 </table>
