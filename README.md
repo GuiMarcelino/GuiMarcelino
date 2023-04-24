@@ -7,6 +7,8 @@
 ![GuiMarcelino GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiMarcelino&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMarcelino&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Guilherme_Marcelino's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Guilherme_Marcelino)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Tecnologias que eu uso no meu dia:</h3>
     <p align="left">
         <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
