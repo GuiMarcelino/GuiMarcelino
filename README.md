@@ -33,8 +33,7 @@
             <td><b>Id</b></td>
 	    <td><b>Projects</b></td>
 	    <td><b>Skills</b></td>
-            <td><b>Stars</b></td>
-            <td><b>Forks</b></td>
+	    <td><b>Stars</b></td>        
             <td><b>Issues</b></td>
         </tr>
     </thead>
@@ -44,14 +43,12 @@
             	<td><a href="https://github.com/GuiMarcelino/Prime_Fitness_Studio"><b>Prime_Fitness_Studio</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/Prime_Fitness_Studio?style=flat-square&labelColor=343b41" />                   </td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/Prime_Fitness_Studio?style=flat-square&labelColor=343b41" />                   </td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/Prime_Fitness_Studio?style=flat-square&labelColor=343b41" /> 
-        <tr>
+        </tr>
 		<td>2</td>
 		<td><a href=https://github.com/GuiMarcelino/ActiveRecordCurso"><b>ActiveRecordCurso</b></a></td>
 	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/ActiveRecordCurso?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
@@ -59,7 +56,6 @@
             	<td><a href="https://github.com/GuiMarcelino/Rspec_Rails"><b>Rspec_Rails</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/Rspec_Rails?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/Rspec_Rails?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/Rspec_Rails?style=flat-square&labelColor=343b41" /></td>
         </tr>
 	 <tr>
@@ -67,7 +63,6 @@
             	<td><a href="https://github.com/GuiMarcelino/TDD_Ruby_on_Rails_Rspec"><b>TDD_Ruby_on_Rails_Rspec</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/onebitcode?style=flat-square&labelColor=343b41" /></td>
             	</td>
         </tr>
