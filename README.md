@@ -1,7 +1,7 @@
 ## Olá, eu sou Guilherme Marcelino 👋
 ### Sou Desenvolvedor backend "RubyonRails"
 
-#### :books: :black_nib: No momento estou estudando sobre:
+#### :books: :black_nib: Melhorando conhecimento em SQL e NoSQL:
 - Melhorando conhecimento em SQL
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dev-backend/)
