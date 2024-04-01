@@ -43,10 +43,10 @@
     <tbody>
 	    <tr>
 		<td>1</td>
-            	<td><a href="https://github.com/GuiMarcelino/Prime_Fitness_Studio"><b>Prime_Fitness_Studio</b></a></td>
+            	<td><a href="https://github.com/GuiMarcelino/SQL_Study"><b>SQL_Study</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/Prime_Fitness_Studio?style=flat-square&labelColor=343b41" />                   </td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/Prime_Fitness_Studio?style=flat-square&labelColor=343b41" /> 
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/GuiMarcelino/SQL_Study?style=flat-square&labelColor=343b41" />                   </td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/GuiMarcelino/SQL_Study?style=flat-square&labelColor=343b41" /> 
         </tr>
 		<td>2</td>
 		<td><a href=https://github.com/GuiMarcelino/ActiveRecordCurso"><b>ActiveRecordCurso</b></a></td>
